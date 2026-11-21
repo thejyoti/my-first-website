@@ -1,4 +1,35 @@
-# My First Website
+
+My First Website- Solar System
+Project Overview
+This is my first website project, created using
+HTML, CSS and Javascript in CodePen.
+
+THe website introduces the Solar System and 
+provides information about planets,moons
+and about other objects in space.
+
+Features
+.Welcome section
+.Introduction to the Solar System
+Pictures of the Solar System
+.Responsive website layout
+
+Technologies used
+.HTML5
+.CSS3
+.JavaScript
+
+Project Files
+. index.html - Website structure
+. style.css- Website styling
+. script.js - JavaScript functionality
+
+Author
+Created as my first web
+development project
+
+Original Project 
+Created using CodePen
 
 A Pen created on CodePen.
 
