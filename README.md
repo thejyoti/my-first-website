@@ -1,37 +1,39 @@
 
-My First Website- Solar System
-Project Overview
-This is my first website project, created using
-HTML, CSS and Javascript in CodePen.
+# My First Website – Solar System
 
-THe website introduces the Solar System and 
-provides information about planets,moons
-and about other objects in space.
+## Project Overview
 
-Features
-.Welcome section
-.Introduction to the Solar System
-Pictures of the Solar System
-.Responsive website layout
+This is my first website project, created using HTML, CSS and JavaScript in CodePen.
 
-Technologies used
-.HTML5
-.CSS3
-.JavaScript
+The website introduces the Solar System and provides information about planets, moons and other objects in space.
 
-Project Files
-. index.html - Website structure
-. style.css- Website styling
-. script.js - JavaScript functionality
+## Features
 
-Author
-Created as my first web
-development project
+- Welcome section
+- Introduction to the Solar System
+- Pictures of the Solar System
+- Responsive website layout
 
-Original Project 
-Created using CodePen
+## Technologies Used
 
-A Pen created on CodePen.
+- HTML5
+- CSS3
+- JavaScript
+
+## Project Files
+
+- `index.html` – Website structure
+- `style.css` – Website styling
+- `script.js` – JavaScript functionality
+
+## Author
+
+Created as my first web development project.
+
+## Original Project
+
+Created using CodePen.
+
 
 Original URL: [https://codepen.io/editor/Dragons-Heart/pen/01a1fed3-10fc-7432-8547-ec58771671f3](https://codepen.io/editor/Dragons-Heart/pen/01a1fed3-10fc-7432-8547-ec58771671f3).
 
